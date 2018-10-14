@@ -1,1 +1,1 @@
-# star-chart-js
+# sky-view-js
