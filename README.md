@@ -1,1 +1,1 @@
-# sky-view-js
+# SkyView.js
